@@ -1,6 +1,6 @@
 - 👋 Hi, I’m persuing my master degree in HUST.
-- 👀 I’m interested in learned index and distributed file system.
-- 🌱 I’m currently struggling for ideas to optimize learned index.
+- 👀 I’m interested in learned index and distributed file systems.
+- 🌱 I’m currently struggling for ideas to optimize learned indexes.
 - 📫 Contact me by email : yuxinyang@hust.edu.cn :grin:
 
 <!---
