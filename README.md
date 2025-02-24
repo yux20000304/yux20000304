@@ -1,9 +1,15 @@
-- 👋 Hi, I’m persuing my master degree in HUST.
-- 👀 I’m interested in learned index and distributed file systems.
-- 🌱 I’m currently struggling for ideas to optimize learned indexes.
-- 📫 Contact me by email : yuxinyang@hust.edu.cn :grin:
+# Hi there, I'm Yuxin! 👋
 
-<!---
-yux20000304/yux20000304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🌱 I’m a Master student at HUST, Wuhan.
+- 👀 I’m looking for 25 fall Phd positions.
+- 📫 How to reach me: yuxinyang@hust.edu.cn
+- ⚡ Fun fact: I love badminton and Clash Royale.
+
+## GitHub Stats
+
+![Yux's GitHub stats](https://github-readme-stats.vercel.app/api?username=yux20000304&show_icons=true&theme=radical)
+
+
+
