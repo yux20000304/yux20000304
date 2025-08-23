@@ -3,7 +3,7 @@
 ## About Me
 
 - 🌱 I am a first year Phd student at University of California, Santa Cruz.
-- 👀 I am doing some research about memory.
+- 👀 I am doing some research about memory systems.
 - 📫 How to reach me: yyang460@ucsc.edu
 - ⚡ Fun fact: I love badminton and Clash Royale.
 
