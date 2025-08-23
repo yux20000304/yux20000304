@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🌱 I’m a Master student at HUST, Wuhan.
-- 👀 I’m looking for 25 fall Phd positions.
-- 📫 How to reach me: yuxinyang@hust.edu.cn
+- 🌱 I am a first year Phd student at University of California, Santa Cruz.
+- 👀 I am doing some research about memory.
+- 📫 How to reach me: yyang460@ucsc.edu
 - ⚡ Fun fact: I love badminton and Clash Royale.
 
 ## GitHub Stats
